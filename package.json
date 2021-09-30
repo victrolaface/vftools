@@ -1,13 +1,13 @@
 {
   "name": "com.victrolaface.tools",
   "version": "1.0.0",
-  "displayName": "VFTools",
+  "displayName": "vftools",
   "description": "Tools for the unity game engine.",
   "unity": "2020.3",
   "unityRelease": "17f1",
-  "documentationUrl": "https://github.com/victrolaface/vftools/",
-  "changelogUrl": "https://github.com/victrolaface/vftools/changelog.html",
-  "licensesUrl": "https://github.com/victrolaface/vftools/licensing.html",
+  "documentationUrl": "https://github.com/victrolaface/vftools/wiki/Documentation",
+  "changelogUrl": "https://github.com/victrolaface/vftools/blob/master/CHANGELOG.md",
+  "licensesUrl": "https://github.com/victrolaface/vftools/blob/master/LICENSING.md",
   "author": {
     "name": "victrolaface",
     "email": "",
