@@ -13,5 +13,13 @@
     "email": "",
     "url": "https://www.github.com/victrolaface"
   },
-  "type": "library"
+  "type": "library",
+  "publishConfig": {
+	"registry":"https://npm.pkg.github.com/@victrolaface"
+  },
+  "repository":
+  {
+	  "type": "git",
+	  "url": "git@github.com:victrolaface/vftools.git"
+  }
 }
