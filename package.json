@@ -1,0 +1,17 @@
+{
+  "name": "com.victrolaface.tools",
+  "version": "1.0.0",
+  "displayName": "VFTools",
+  "description": "Tools for the unity game engine.",
+  "unity": "2020.3",
+  "unityRelease": "17f1",
+  "documentationUrl": "https://github.com/victrolaface/vftools/",
+  "changelogUrl": "https://github.com/victrolaface/vftools/changelog.html",
+  "licensesUrl": "https://github.com/victrolaface/vftools/licensing.html",
+  "author": {
+    "name": "victrolaface",
+    "email": "",
+    "url": "https://www.github.com/victrolaface"
+  },
+  "type": "library"
+}
